@@ -8,6 +8,8 @@ In the `index.js` file, edit the `server_name` field into whatever you want the 
 
 ## Invite link
 
-Now, open the `invite.js` file and change the `guild_id` in the brackets to your actual guild id. run it to get the invite link in the console.
+Now, open the `invite.js` file and change the `guild_id` (is written in two places, make sure to change both) in the brackets to your actual guild id. 
+Run it to get the invite link in the console.
+
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/78908173/164231797-cf66b81f-2809-4830-bf77-3046df556949.png">
 
